@@ -1,0 +1,33 @@
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.footer-size {
+    background-color: rgb(14, 18, 24);
+    margin: 10px;
+    padding: 10px;
+    height: 30vh;
+}
+
+.footer-size h4 {
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+}
+
+.footer-size h5 {
+    margin: 15px 15px;
+    color: #fff;
+}
+
+.texts {
+    color: white;
+}
+
+.footer-links {
+    margin: auto 20px;
+}

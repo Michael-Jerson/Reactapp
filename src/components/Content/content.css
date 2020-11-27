@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contentt {
+    background-color: rgb(163, 213, 228);
+    padding: 50px;
+    height: 55vh;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px;
+}

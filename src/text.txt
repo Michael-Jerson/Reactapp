@@ -1,0 +1,12 @@
+<Router>
+    <Switch>
+      <Route path="/" exact>
+        <Header />
+        <CountriesList />
+        <Footer />
+      </Route>
+      <Route path="/:country" exact>
+        <Country />
+      </Route>
+    </Switch>
+  </Router>
